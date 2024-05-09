@@ -16,3 +16,6 @@ Haplotype analysis of sugary1 in the sweet corn diversity population:
 Haplotype analysis of sugary enhancer1 in the sweet cap population:
 
 ![su1_haplotype](./figs/se1_haplotype.png)
+
+Additional features include on-the-fly pca and dapc analyses for any given locus. Here is an example of a sh2 locus with mutations highlighted.
+![hap_pca](./figs/hap_pca.png)
